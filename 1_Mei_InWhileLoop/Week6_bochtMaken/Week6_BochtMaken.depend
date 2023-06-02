@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1685093846 source:c:\school\blok 4\project agv\programmeren\week5_rechtrijden\fuse.c
+	<avr/io.h>
+
+1685094863 source:c:\school\blok 4\project agv\programmeren\week5_rechtrijden\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685110733 c:\school\blok 4\project agv\programmeren\week5_rechtrijden\motorlinks.h
+
+1685094803 source:c:\school\blok 4\project agv\programmeren\week5_rechtrijden\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685110840 c:\school\blok 4\project agv\programmeren\week5_rechtrijden\motorrechts.h
+
+1685110607 source:c:\school\blok 4\project agv\programmeren\week5_rechtrijden\main.c
+	<avr/io.h>
+
+1685112264 source:c:\users\woute\de haagse hogeschool\kevin buch (22093079) - project agv\programmeren\week6_bochtmaken\fuse.c
+	<avr/io.h>
+
+1685547044 source:c:\users\woute\de haagse hogeschool\kevin buch (22093079) - project agv\programmeren\week6_bochtmaken\main.c
+	<avr/io.h>
+	<avr/delay.h>
+
+1685112263 source:c:\users\woute\de haagse hogeschool\kevin buch (22093079) - project agv\programmeren\week6_bochtmaken\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685112263 c:\users\woute\de haagse hogeschool\kevin buch (22093079) - project agv\programmeren\week6_bochtmaken\motorlinks.h
+
+1685112263 source:c:\users\woute\de haagse hogeschool\kevin buch (22093079) - project agv\programmeren\week6_bochtmaken\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685112263 c:\users\woute\de haagse hogeschool\kevin buch (22093079) - project agv\programmeren\week6_bochtmaken\motorrechts.h
+
+1685623286 source:c:\school\blok 4\project agv\programmeren\week6_bochtmaken\week6_bochtmaken\fuse.c
+	<avr/io.h>
+
+1685623286 source:c:\school\blok 4\project agv\programmeren\week6_bochtmaken\week6_bochtmaken\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685623771 c:\school\blok 4\project agv\programmeren\week6_bochtmaken\week6_bochtmaken\motorlinks.h
+
+1685623286 source:c:\school\blok 4\project agv\programmeren\week6_bochtmaken\week6_bochtmaken\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685623286 c:\school\blok 4\project agv\programmeren\week6_bochtmaken\week6_bochtmaken\motorrechts.h
+
+1685692395 source:c:\school\blok 4\project agv\programmeren\week6_bochtmaken\week6_bochtmaken\main.c
+	<avr/io.h>
+	<avr/delay.h>
+
