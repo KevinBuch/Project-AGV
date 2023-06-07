@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1685699529 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\week6_bochtmaken_functies\fuse.c
+	<avr/io.h>
+
+1685698265 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\week6_bochtmaken_functies\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685698265 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\week6_bochtmaken_functies\motorlinks.h
+
+1685698265 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\week6_bochtmaken_functies\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685698265 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\week6_bochtmaken_functies\motorrechts.h
+
+1685973455 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\week6_bochtmaken_functies\main.c
+	<avr/io.h>
+	<avr/delay.h>
+
