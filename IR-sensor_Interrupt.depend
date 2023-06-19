@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685973631 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\fuse.c
+	<avr/io.h>
+
+1685973785 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685973763 c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorlinks.h
+
+1685973753 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685973773 c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorrechts.h
+
+1687180003 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/interrupt.h>
+
