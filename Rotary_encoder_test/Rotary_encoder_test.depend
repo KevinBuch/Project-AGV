@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1686303333 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\fuse.c
+	<avr/io.h>
+
+1687344780 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"rotary.h"
+	"tm1637.h"
+	"MotorRechts.h"
+	"MotorLinks.h"
+
+1687344322 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\rotary.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1687341857 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\rotary.c
+	"rotary.h"
+
+1685028590 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\tm1637.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<util/delay.h>
+	"tm1637.h"
+
+1686148525 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\tm1637.h
+	<stdint.h>
+
+1685112263 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685112263 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\motorlinks.h
+
+1687341103 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685112263 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\rotary_encoder_test\motorrechts.h
+
