@@ -206,11 +206,6 @@ void init(void)
  144:	78 94       	sei
 
 00000146 <.Loc.6>:
-    //PORTF |= (1<<PF0);      // LED uit
-    //PORTF |= (1<<PF1);     // LED aan
-
-    //TM1637_init(1/*enable*/, 3/*brightness*/);
-    //TM1637_display_colon(0);        //Colons display uitzetten
 }
  146:	08 95       	ret
 
@@ -229,7 +224,7 @@ int main(void)
  14e:	d0 e0       	ldi	r29, 0x00	; 0
 
 00000150 <.Loc.13>:
-            //PORTF &= ~(1<<PF1);     // LED aan
+            MotorRechts_set_percentage(80-(waarde_rot_2-waarde_rot_1));
         }
         //rechtsom draaien
         if(waarde_rot_1 < waarde_rot_2)
@@ -248,7 +243,7 @@ int main(void)
  15e:	19 c0       	rjmp	.+50     	; 0x192 <.L3>
 
 00000160 <.L9>:
-            waarde_rot_1 = waarde_rot_1 -1;
+            waarde_rot_1--;
  160:	21 97       	sbiw	r28, 0x01	; 1
 
 00000162 <.Loc.19>:

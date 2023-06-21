@@ -19,15 +19,6 @@ void init(void)
     init_MotorRechts();
 
     sei();
-
-    //DDRF |= (1<<PF0);       // LED pin output
-    //DDRF |= (1<<PF1);       // LED pin output
-
-    //PORTF |= (1<<PF0);      // LED uit
-    //PORTF |= (1<<PF1);     // LED aan
-
-    //TM1637_init(1/*enable*/, 3/*brightness*/);
-    //TM1637_display_colon(0);        //Colons display uitzetten
 }
 
 int main(void)
@@ -44,7 +35,7 @@ int main(void)
         if(rotary_1 == 1)
         {
             rotary_1 = 0;
-            waarde_rot_1 = waarde_rot_1 -1;
+            waarde_rot_1--;
             RotaryResetStatus();
         }
         if(rotary_1 == 2)
@@ -54,30 +45,22 @@ int main(void)
             RotaryResetStatus();
         }
 
-
-
         if(waarde_rot_1 == waarde_rot_2)
         {
             MotorLinks_set_percentage(0);
             MotorRechts_set_percentage(0);
-            //PORTF |= (1<<PF0);      // LED uit
-            //PORTF |= (1<<PF1);      // LED uit
         }
         //linksom draaien
         if(waarde_rot_1 > waarde_rot_2)
         {
             MotorLinks_set_percentage(60+(waarde_rot_2-waarde_rot_1));
             MotorRechts_set_percentage(80-(waarde_rot_2-waarde_rot_1));
-            //PORTF |= (1<<PF0);      // LED uit
-            //PORTF &= ~(1<<PF1);     // LED aan
         }
         //rechtsom draaien
         if(waarde_rot_1 < waarde_rot_2)
         {
             MotorLinks_set_percentage(70+(waarde_rot_2-waarde_rot_1));
             MotorRechts_set_percentage(70-(waarde_rot_2-waarde_rot_1));
-            //PORTF &= ~(1<<PF0);     // LED aan
-            //PORTF |= (1<<PF1);      // LED uit
         }
     }
     return 0;
