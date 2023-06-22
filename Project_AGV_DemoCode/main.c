@@ -8,7 +8,7 @@ state legenda:
 4: stilstaana bij plantenbak daarna bocht rechtsom
 99: stilstaan bij de LAATSTE PLANTENBAK van het LAATSTE PAD
  */
-
+jemeodern heeeft een aalzak
 #include <avr/io.h>
 #include <avr/delay.h>
 #include <avr/interrupt.h>
