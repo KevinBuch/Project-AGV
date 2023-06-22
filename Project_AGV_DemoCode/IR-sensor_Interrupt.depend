@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1685973631 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\fuse.c
+	<avr/io.h>
+
+1685973785 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1685973763 c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorlinks.h
+
+1685973753 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1685973773 c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\motorrechts.h
+
+1687180003 source:c:\school\blok 4\project agv\programmeren\ir-sensor_interrupt\main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/interrupt.h>
+
+1687180583 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\fuse.c
+	<avr/io.h>
+
+1687357457 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/interrupt.h>
+	"rotary.h"
+
+1687180583 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1687180583 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\motorlinks.h
+
+1687180583 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1687180583 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\motorrechts.h
+
+1687341857 source:c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\rotary.c
+	"rotary.h"
+
+1687344322 c:\users\woute\onedrive\bureaublad\eerste jaar\microcontroller\codeblocks_programma's\blok_4\agv\project-agv-2_ir-sensor_rijcode\rotary.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1687358336 source:c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\fuse.c
+	<avr/io.h>
+
+1687358336 source:c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1687358336 c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\motorlinks.h
+
+1687358336 source:c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1687358336 c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\motorrechts.h
+
+1687358336 source:c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\rotary.c
+	"rotary.h"
+
+1687358336 c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\rotary.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1687434921 source:c:\school\blok 4\project agv\programmeren\project-agv-main\project-agv-main\project-agv-2_ir-sensor_rijcode\main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/interrupt.h>
+	"rotary.h"
+
