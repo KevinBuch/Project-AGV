@@ -105,3 +105,27 @@
 	<avr/io.h>
 	<avr/interrupt.h>
 
+1687423665 source:c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\fuse.c
+	<avr/io.h>
+
+1687423665 source:c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\motorlinks.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorLinks.h"
+
+1687423665 c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\motorlinks.h
+
+1687423665 source:c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\motorrechts.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"MotorRechts.h"
+
+1687423665 c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\motorrechts.h
+
+1687423665 source:c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\rotary.c
+	"rotary.h"
+
+1687423665 c:\github dingen\project-agv\project-agv-2_ir-sensor_rijcode\rotary.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
