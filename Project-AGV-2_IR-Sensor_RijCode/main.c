@@ -4,7 +4,7 @@ state legenda:
 //dit is een aanpassing die wouter maakt
 // dit is een extra aanpassing van Abdullah
 printf("hello world/n")
-
+dan is dit nog een aanpassing van mij (ARD) 
 0: blijf helemaal stilstaan
 1: blijf rechtdoor rijden
 2: stilstaan bij plantenbak daarna naar state 1
