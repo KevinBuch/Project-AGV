@@ -2,7 +2,7 @@
 state legenda:
 
 //dit is een aanpassing die wouter maakt
-// dit is een extra aanpassing van Jeroen
+// dit is een extra aanpassing van Abdullah
 printf("hello world/n")
 
 0: blijf helemaal stilstaan
