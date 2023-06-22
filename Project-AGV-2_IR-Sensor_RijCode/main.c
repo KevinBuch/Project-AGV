@@ -1,6 +1,9 @@
 /*
 state legenda:
 
+//dit is een aanpassing die wouter maakt
+printf("hello world/n")
+
 0: blijf helemaal stilstaan
 1: blijf rechtdoor rijden
 2: stilstaan bij plantenbak daarna naar state 1
